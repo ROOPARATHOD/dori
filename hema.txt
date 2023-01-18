@@ -1,0 +1,3 @@
+name:hema dori
+age:18+
+study:diploma cse
